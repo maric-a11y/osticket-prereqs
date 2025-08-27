@@ -40,11 +40,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 
 - Connect to your VM using the Remote Desktop with the public IP address form the VM. (for mac user use the "windows app")
-![image](https://github.com/user-attachments/assets/d5754cfa-60fa-45e3-80a9-0498054b379a)
+![Screen Shot 2025-08-27 at 8 41 24 AM](https://github.com/user-attachments/assets/192994a0-acc5-47ed-a0cd-c408694fce42)
+
 
 - login with the same login credentials used to create the VM.
    
-![image](https://github.com/user-attachments/assets/871155b7-1c14-4160-ab8f-5d96b6a90f9f)
+![Screen Shot 2025-08-27 at 8 44 35 AM](https://github.com/user-attachments/assets/f452050f-3c38-4874-bf18-0233ceee0f38)
 
 2. Download the osTicket-Installation-Files.zip
 
