@@ -35,7 +35,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 1. Create Virtual Machine in Azure:
 - Log in to Azure Portal.
 - Create a new VM with Windows Server.
-![image](![Screen Shot 2025-08-26 at 9 35 09 PM Small](https://github.com/user-attachments/assets/44a04c15-99ee-44c8-8d7b-7611c6c3d7ef))
+![image](https://github.com/user-attachments/assets/44a04c15-99ee-44c8-8d7b-7611c6c3d7ef))
 
 - Connect to your VM using the Remote Desktop with the public IP address form the VM. (for mac user use the "windows app")
 ![image](https://github.com/user-attachments/assets/d5754cfa-60fa-45e3-80a9-0498054b379a)
