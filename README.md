@@ -34,9 +34,12 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  
 - Within the VM (osticket-vm), download the osTicket-Installation-Files.zip and unzip it onto your desktop. The folder should be called “osTicket-Installation-Files”
+  
 - Install / Enable IIS in Windows WITH CGI
-  --World Wide Web Services -> Application Development Features -> [X] CGI
+
+  (World Wide Web Services -> Application Development Features -> [X] CGI)
 </p>
 <br />
 
